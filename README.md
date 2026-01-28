@@ -61,5 +61,5 @@ npm run dev
 Open your browser and navigate to `http://localhost:5173` (or the port shown in your terminal).
 
 <div align="center">
-  <sub>Developed by KNP| Last Updated: Dec 2025</sub>
+  <sub>Developed by KNP| Last Updated: Jan 2025</sub>
 </div>
